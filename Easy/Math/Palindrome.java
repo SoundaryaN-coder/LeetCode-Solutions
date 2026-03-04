@@ -1,4 +1,8 @@
-//Problem : 
+//Problem : Palindrome
+//Difficulty : Easy
+//Approach : Mathematical Reversal
+//Time Complexity : o(log n )
+//Space Complexity : o(1)
 class Solution {
     public boolean isPalindrome(int x) {
         if(x<0){
